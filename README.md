@@ -1,2 +1,2 @@
-# billbord
+# billboard
 Advertising platform
