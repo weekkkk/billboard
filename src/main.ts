@@ -5,6 +5,7 @@ import App from './App.vue'
 import router from './router'
 import "./assets/style/color/index.scss"
 import "./assets/style/indent/index.scss"
+import "./assets/style/line-height/index.scss"
 
 const app = createApp(App)
 
