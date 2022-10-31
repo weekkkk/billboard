@@ -1,0 +1,11 @@
+:root {
+    --bb-spacer: 16px;
+
+    // INDENT
+    --bb-indent-0: 0;
+    --bb-indent-1: calc(var(--bb-spacer) * 0.25);
+    --bb-indent-2: calc(var(--bb-spacer) * 0.5);
+    --bb-indent-3: calc(var(--bb-spacer));
+    --bb-indent-4: calc(var(--bb-spacer) * 1.5);
+    --bb-indent-5: calc(var(--bb-spacer) * 3);
+}
