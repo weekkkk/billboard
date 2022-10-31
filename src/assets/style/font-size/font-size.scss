@@ -1,0 +1,27 @@
+:root {
+    // FONT SIZE
+    .fs-small_caption {
+        font-size: var(--bb-fs-small_caption);
+    }
+    .fs-caption, span {
+        font-size: var(--bb-fs-caption);
+    }
+    .fs-small_p {
+        font-size: var(--bb-fs-small_p);
+    }
+    .fs-p, p {
+        font-size: var(--bb-fs-p);
+    }
+    .fs-h4, h4 {
+        font-size: var(--bb-fs-h4);
+    }
+    .fs-h3, h3 {
+        font-size: var(--bb-fs-h3);
+    }
+    .fs-h2, h2 {
+        font-size: var(--bb-fs-h2);
+    }
+    .fs-h1, h1 {
+        font-size: var(--bb-fs-h1);
+    }
+}
