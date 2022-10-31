@@ -1,6 +1,6 @@
 <template>
-    <div>
-
+    <div class="a-25">
+        <h1 class="c-warning-25">Text</h1>
     </div>
 </template>
 
