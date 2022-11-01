@@ -28,9 +28,39 @@
         color: rgba(var(--bb-c-border-1), var(--bb-c-alpha));
     }
     .c-border-2 {
-        color: rgba(var(--bb-c-border2), var(--bb-c-alpha));
+        color: rgba(var(--bb-c-border-2), var(--bb-c-alpha));
     }
-
+    // BACKGROUND
+    .bg-brand {
+        background-color: rgba(var(--bb-c-text), var(--bb-c-alpha));
+    }
+    .bg-succes {
+        background-color: rgba(var(--bb-c-succes), var(--bb-c-alpha));
+    }
+    .bg-warning {
+        background-color: rgba(var(--bb-c-warning), var(--bb-c-alpha));
+    }
+    .bg-danger {
+        background-color: rgba(var(--bb-c-danger), var(--bb-c-alpha));
+    }
+    .bg-text {
+        background-color: rgba(var(--bb-c-text), var(--bb-c-alpha));
+    }
+    .bg-info {
+        background-color: rgba(var(--bb-c-info), var(--bb-c-alpha));
+    }
+    .bg-1 {
+        background-color: rgba(var(--bb-c-bg-1), var(--bb-c-alpha));
+    }
+    .bg-2 {
+        background-color: rgba(var(--bb-c-bg-2), var(--bb-c-alpha));
+    }
+    .bg-border-1 {
+        background-color: rgba(var(--bb-c-border-1), var(--bb-c-alpha));
+    }
+    .bg-border-2 {
+        background-color: rgba(var(--bb-c-border-2), var(--bb-c-alpha));
+    }
     // TRANSPARENCY
     .a-10 {
         --bb-c-alpha: 0.1;
