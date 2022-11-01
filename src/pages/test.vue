@@ -1,7 +1,7 @@
 <template>
     <div class="">
         <h1 class="">Text</h1>
-        <h1>dfvdf</h1>
+        <p>dfvdf</p>
     </div>
 </template>
 
@@ -10,5 +10,5 @@
 </script>
 
 <style scope>
-
+    
 </style>
