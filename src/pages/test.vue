@@ -1,6 +1,6 @@
 <template>
     <div class="a-25">
-        <h1 class="w-light">Text</h1>
+        <h1 class="">Text</h1>
         <h1>dfvdf</h1>
     </div>
 </template>
