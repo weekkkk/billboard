@@ -1,5 +1,5 @@
 <template>
-    <div class="a-25">
+    <div class="">
         <h1 class="">Text</h1>
         <h1>dfvdf</h1>
     </div>
