@@ -18,21 +18,17 @@
     .c-info {
         color: rgba(var(--bb-c-info), var(--bb-c-alpha));
     }
-
-    // BACKGROUND
-    .bg-1 {
-        background-color: rgba(var(--bb-c-bg-1), var(--bb-c-alpha));
+    .c-bg-1 {
+        color: rgba(var(--bb-c-bg-1), var(--bb-c-alpha));
     }
-    .bg-2 {
-        background-color:  rgba(var(--bb-c-bg-2), var(--bb-c-alpha));
+    .c-bg-2 {
+        color:  rgba(var(--bb-c-bg-2), var(--bb-c-alpha));
     }
-
-    // BORDER
-    .border-1 {
-        border-color: rgba(var(--bb-c-border-1), var(--bb-c-alpha));
+    .c-border-1 {
+        color: rgba(var(--bb-c-border-1), var(--bb-c-alpha));
     }
-    .border-2 {
-        border-color: rgba(var(--bb-c-border2), var(--bb-c-alpha));
+    .c-border-2 {
+        color: rgba(var(--bb-c-border2), var(--bb-c-alpha));
     }
 
     // TRANSPARENCY
